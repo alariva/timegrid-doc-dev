@@ -1,12 +1,14 @@
-# timegrid
+# timegrid Developer Documentation
 
-## Developer Documentation
+## Version
 
-### i18n
+> Current Project Version: v3.6.0-rc1
+
+## i18n
 
 The Developer Documentation is currently only available in english version.
 
-### What is timegrid
+## What is timegrid
 
 timegrid is a simple online service reservation platform.
 
@@ -14,11 +16,11 @@ As an intermediate party, it allows businesses (service providers) and customers
 
 The application intends to be simple to use and flexible enough to adopt a variety of industry sectors.
 
-### Demo
+## Demo
 
 [Demo](http://demo.timegrid.io/)
 
-### Supported Devices
+## Supported Devices
 
 timegrid is a web application that mediates between *businesses* and *customers* to let them handle *service reservations*.
 
@@ -28,16 +30,16 @@ You can use it from
   - your tablet
   - your mobile phone
 
-#### Quickstart
+### Quickstart
 
-##### Businesses
+#### Businesses
 
   1. Register once on the website
   2. Setup your services
   3. Publish your availability
   4. __Done!__ You can start giving out appointments
 
-##### Customers
+#### Customers
 
   1. Register once on the website
   2. Suscribe to the desired business
