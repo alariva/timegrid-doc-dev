@@ -43,3 +43,8 @@ You can use it from
   2. Suscribe to the desired business
   3. Make the reservation for a desired service
   4. __Done!__ They are waiting for you
+
+## Contents
+
+  * [Setup Installation](setup-installation)
+
