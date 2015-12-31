@@ -22,27 +22,27 @@ timegrid is a web application that mediates between *businesses* and *customers*
 
 You can use it from
 
-    - your PC
-    - your tablet
-    - your mobile phone
+  - your PC
+  - your tablet
+  - your mobile phone
 
 ### Quickstart
 
 #### Businesses
 
-    1. Register once on the website
-    1. Setup your services
-    1. Publish your availability
-    1. __Done!__ You can start giving out appointments
+  1. Register once on the website
+  1. Setup your services
+  1. Publish your availability
+  1. __Done!__ You can start giving out appointments
 
 #### Customers
 
-    1. Register once on the website
-    1. Suscribe to the desired business
-    1. Make the reservation for a desired service
-    1. __Done!__ They are waiting for you
+  1. Register once on the website
+  1. Suscribe to the desired business
+  1. Make the reservation for a desired service
+  1. __Done!__ They are waiting for you
 
 ## QuickStart
 
-    * [Demo](http://demo.timegrid.io/)
-    * [Setup Installation](setup-installation)
+  * [Demo](http://demo.timegrid.io/)
+  * [Setup Installation](setup-installation)

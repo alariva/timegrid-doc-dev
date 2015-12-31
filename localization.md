@@ -4,19 +4,19 @@ The main language is `en_US`. All derived translations should be taken from this
 
 Supported languages so far are:
 
-    * English [en_US]
-    * Spanish [es_ES]
+  * English [en_US]
+  * Spanish [es_ES]
 
 Possible future languages to include:
 
-    * Italian [it_IT]
-    * Portuguese [pt_BR]
-    * Catalan [ca_ES]
+  * Italian [it_IT]
+  * Portuguese [pt_BR]
+  * Catalan [ca_ES]
 
 # Directories
 
-    * Translation key files are located in `resources/lang`
-    * Email templates are located in `resources/views/emails` which are as well localized
+  * Translation key files are located in `resources/lang`
+  * Email templates are located in `resources/views/emails` which are as well localized
 
 # Translation Keys Schema
 
@@ -24,10 +24,10 @@ There is currently no proper *translation key schema* set.
 
 So far, the key naming intends to achieve the following goals:
 
-    * **Consistency:** Minimize the possibility of using different words for the same meaning, or creating many different keys that end up having the same translation (like common words).
-    * **Reusability:** Minimize the overall translation files size and translate as less as possible, and preserve flexibility.
-    * **Readability:** Translators should be able to easily identify the purpose of the key even under lack of the translation value.
-    * **Organization:** Developer should easily remember/guess the full key path (or at least the base path) and minimize checking the transalation files each time.
+  * **Consistency:** Minimize the possibility of using different words for the same meaning, or creating many different keys that end up having the same translation (like common words).
+  * **Reusability:** Minimize the overall translation files size and translate as less as possible, and preserve flexibility.
+  * **Readability:** Translators should be able to easily identify the purpose of the key even under lack of the translation value.
+  * **Organization:** Developer should easily remember/guess the full key path (or at least the base path) and minimize checking the transalation files each time.
 
 You may find [further information in StackOverflow](http://stackoverflow.com/questions/31785471/which-are-the-suggested-key-naming-strategies-for-trans-in-laravel)
 
