@@ -4,7 +4,8 @@
 
 Before you run tests, you will need to setup a *testing database*.
 
-By default, the testing database is called `test_timegrid`, you can change that and other parameters in the `phpunit.xml` file in the base directory.
+By default, the testing database is called `test_timegrid`, you can change that 
+and other parameters in the `phpunit.xml` file in the base directory.
 
 ## Running tests
 
@@ -24,7 +25,9 @@ Running `phpunit` in the base directory will execute all unit tests.
 
 # CodeClimate
 
-timegrid repository is monitored by [CodeClimate](https://codeclimate.com/), an external service that consolidates the results from a suite of static analysis tools into a single, real-time report.
+timegrid repository is monitored by [CodeClimate](https://codeclimate.com/), an 
+external service that consolidates the results from a suite of static analysis 
+tools into a single, real-time report.
 
 [![Code Climate](https://codeclimate.com/github/alariva/timegrid/badges/gpa.svg)](https://codeclimate.com/github/alariva/timegrid)
 [![Test Coverage](https://codeclimate.com/github/alariva/timegrid/badges/coverage.svg)](https://codeclimate.com/github/alariva/timegrid/coverage)
@@ -32,8 +35,10 @@ timegrid repository is monitored by [CodeClimate](https://codeclimate.com/), an 
 
 # Travis-CI
 
-timegrid has continuous integration supported by [Travis-CI](https://travis-ci.org/).
+timegrid has continuous integration supported by 
+[Travis-CI](https://travis-ci.org/).
 
-Travis will automatically run the tests for every Pull Request, thus helping out to know if a code change is suitable for merge.
+Travis will automatically run the tests for every Pull Request, thus helping out
+ to know if a code change is suitable for merge.
 
 [![Build Status](https://travis-ci.org/alariva/timegrid.svg?branch=development)](https://travis-ci.org/alariva/timegrid)

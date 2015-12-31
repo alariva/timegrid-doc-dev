@@ -12,13 +12,16 @@ The Developer Documentation is currently only available in english version.
 
 timegrid is a simple online service reservation platform.
 
-As an intermediate party, it allows businesses (service providers) and customers to handle bookings through the web.
+As an intermediate party, it allows businesses (service providers) and customers
+ to handle bookings through the web.
 
-The application intends to be simple to use and flexible enough to adopt a variety of industry sectors.
+The application intends to be simple to use and flexible enough to adopt a 
+variety of industry sectors.
 
 ## Supported Devices
 
-timegrid is a web application that mediates between *businesses* and *customers* to let them handle *service reservations*.
+timegrid is a web application that mediates between *businesses* and *customers*
+ to let them handle *service reservations*.
 
 You can use it from
 
