@@ -16,37 +16,33 @@ As an intermediate party, it allows businesses (service providers) and customers
 
 The application intends to be simple to use and flexible enough to adopt a variety of industry sectors.
 
-## Demo
-
-[Demo](http://demo.timegrid.io/)
-
 ## Supported Devices
 
 timegrid is a web application that mediates between *businesses* and *customers* to let them handle *service reservations*.
 
 You can use it from
 
-  - your PC
-  - your tablet
-  - your mobile phone
+    - your PC
+    - your tablet
+    - your mobile phone
 
 ### Quickstart
 
 #### Businesses
 
-  1. Register once on the website
-  2. Setup your services
-  3. Publish your availability
-  4. __Done!__ You can start giving out appointments
+    1. Register once on the website
+    1. Setup your services
+    1. Publish your availability
+    1. __Done!__ You can start giving out appointments
 
 #### Customers
 
-  1. Register once on the website
-  2. Suscribe to the desired business
-  3. Make the reservation for a desired service
-  4. __Done!__ They are waiting for you
+    1. Register once on the website
+    1. Suscribe to the desired business
+    1. Make the reservation for a desired service
+    1. __Done!__ They are waiting for you
 
-## Contents
+## QuickStart
 
-  * [Setup Installation](setup-installation)
-
+    * [Demo](http://demo.timegrid.io/)
+    * [Setup Installation](setup-installation)
